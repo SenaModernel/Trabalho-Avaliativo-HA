@@ -20,7 +20,6 @@ const itensFixos = [
     { nome: "Sensor de umidade do solo", quantidade: 30 },
     { nome: "Lupa", quantidade: 30 },
     { nome: "Módulo Wi-Fi para Arduino", quantidade: 30 },
-    { nome: "Protoboard", quantidade: 30 },
     { nome: "Cabo conversor HD", quantidade: 30 },
     { nome: "Buzzer", quantidade: 30 },
     { nome: "Sensor ultra sônico", quantidade: 30 },
